@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|c:\\users\\mkisk\\documents\\meinetwas\\homeworkfortheproject\\assets\\scripts\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playerwalkingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerwalkingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playerpunchingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerpunchingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playerrunningstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerrunningstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\shortcuts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shortcuts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\camerafollowingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollowingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraFollowingScript.cs",
+              "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\CameraFollowingScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollowingScript.cs",
+              "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\CameraFollowingScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollowingScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T16:12:45.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShortCuts.cs",
+              "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\ShortCuts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShortCuts.cs",
+              "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\ShortCuts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShortCuts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:58:58.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\StateController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateController.cs",
+              "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\StateController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:22:28.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerIdleState.cs",
+              "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerIdleState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T20:20:43.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerWalkingState.cs",
+              "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerWalkingState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerWalkingState.cs",
+              "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerWalkingState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerWalkingState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:41:10.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerRunningState.cs",
+              "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerRunningState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerRunningState.cs",
+              "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerRunningState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerRunningState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:41:08.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerPunchingState.cs",
+              "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerPunchingState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPunchingState.cs",
+              "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerPunchingState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerPunchingState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:41:07.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerJumpState.cs",
+              "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerJumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerJumpState.cs",
+              "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerJumpState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerJumpState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:29:40.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
