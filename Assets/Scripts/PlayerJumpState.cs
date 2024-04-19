@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using static ShortCuts;
 
 public class PlayerJumpState : IState
 {
@@ -12,9 +11,11 @@ public class PlayerJumpState : IState
 
     public void UpdateState(StateController stateController)
     {
-        if (Horizontal || Vertical)
+        Vector2 direction = stateController.MoveAction.ReadValue<Vector2>();
+
+        if (direction != Vector2.zero)
         {
-            if (wasLeftShiftPressed)
+            if (stateController.RunAction.IsPressed())
                 stateController.ChangeState(stateController.PlayerRunning);
             else
                 stateController.ChangeState(stateController.PlayerWalking);

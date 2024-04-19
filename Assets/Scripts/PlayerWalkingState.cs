@@ -1,39 +1,43 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using static ShortCuts;
 
-public class PlayerWalkingState : IState
+public class PlayerWalkingState : IState, IChangeVelocity
 {
     private Vector3 _direction;
 
     public void OnEnter(StateController stateController)
     {
-        Debug.Log("Enter - Walk");
-
         stateController.AnimatorController.SetBool("IsWalking", true);
     }
 
     public void UpdateState(StateController stateController)
     {
-        Debug.Log("Update - Walk");
-        
-        _direction = Camera.main.transform.TransformDirection(new Vector3(Input.GetAxisRaw("Horizontal") * stateController.Speed, 0, Input.GetAxisRaw("Vertical") * stateController.Speed));
+        ChangeVelocity(stateController, stateController.Speed);
 
-        stateController.RigidBody.velocity = _direction;
-
-        if (!Horizontal && !Vertical)
+        if (_direction == Vector3.zero)
             stateController.ChangeState(stateController.PlayerIdle);
-        else if (wasLeftShiftPressed)
+        else if (stateController.RunAction.IsPressed())
             stateController.ChangeState(stateController.PlayerRunning);
-        else if (Jump)
+        else if (stateController.JumpAction.IsPressed())
             stateController.ChangeState(stateController.PlayerJumping);
     }
 
     public void OnExit(StateController stateController) 
     {
-        Debug.Log("Exit - Walk");
-
         stateController.AnimatorController.SetBool("IsWalking", false);
+    }
+
+    public void ChangeVelocity(StateController stateController, float speed)
+    {
+        Vector2 direction = stateController.MoveAction.ReadValue<Vector2>();
+        Vector3 velocity = stateController.RigidBody.velocity;
+
+        velocity.x = direction.x * speed;
+        velocity.z = direction.y * speed; 
+
+        //stateController.RigidBody.velocity = velocity;
+        stateController.RigidBody.AddForce(velocity);
+        _direction = velocity;
     }
 }

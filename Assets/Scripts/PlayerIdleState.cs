@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using static ShortCuts;
 
 public class PlayerIdleState : IState
 {
@@ -13,18 +12,18 @@ public class PlayerIdleState : IState
 
     public void UpdateState(StateController stateController)
     {
-        Debug.Log("Update - Idle");
+        Vector2 direction = stateController.MoveAction.ReadValue<Vector2>();
 
-        if (Input.GetAxis("Horizontal") != 0 || Input.GetAxis("Vertical") != 0)
+        if (direction != Vector2.zero)
         {
-            if (wasLeftShiftPressed)
+            if (stateController.RunAction.IsPressed())
                 stateController.ChangeState(stateController.PlayerRunning);
             else
                 stateController.ChangeState(stateController.PlayerWalking);
         }
-        else if (isAttackButtonPressed)
+        else if (stateController.PunchAction.IsPressed())
             stateController.ChangeState(stateController.PlayerPunching);
-        else if (Jump)
+        else if (stateController.JumpAction.IsPressed())
             stateController.ChangeState(stateController.PlayerJumping);
     }
 

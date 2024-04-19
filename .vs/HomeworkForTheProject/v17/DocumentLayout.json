@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|c:\\users\\mkisk\\documents\\meinetwas\\homeworkfortheproject\\assets\\scripts\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playerwalkingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerwalkingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playerpunchingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerpunchingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playerrunningstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerrunningstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\shortcuts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shortcuts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|c:\\users\\mkisk\\documents\\meinetwas\\homeworkfortheproject\\assets\\scripts\\ichangevelocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ichangevelocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playerpunchingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerpunchingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|c:\\users\\mkisk\\documents\\meinetwas\\homeworkfortheproject\\assets\\scripts\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9535D12-9127-8292-624F-1DEBCB2AC2C5}|Assembly-CSharp.csproj|C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\assets\\scripts\\camerafollowingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +46,36 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IChangeVelocity.cs",
+              "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\IChangeVelocity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IChangeVelocity.cs",
+              "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\IChangeVelocity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IChangeVelocity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:58:51.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerData.cs",
+              "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:00:54.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CameraFollowingScript.cs",
               "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\CameraFollowingScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollowingScript.cs",
@@ -59,77 +88,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ShortCuts.cs",
-              "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\ShortCuts.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ShortCuts.cs",
-              "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\ShortCuts.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ShortCuts.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T19:58:58.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "StateController.cs",
               "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\StateController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StateController.cs",
               "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\StateController.cs",
               "RelativeToolTip": "Assets\\Scripts\\StateController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADYAAAAEAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T10:22:28.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerIdleState.cs",
               "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerIdleState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerIdleState.cs",
               "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerIdleState.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerIdleState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T20:20:43.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PlayerWalkingState.cs",
               "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerWalkingState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerWalkingState.cs",
               "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerWalkingState.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerWalkingState.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T13:41:10.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PlayerRunningState.cs",
               "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerRunningState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerRunningState.cs",
               "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerRunningState.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerRunningState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T13:41:08.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerPunchingState.cs",
               "DocumentMoniker": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerPunchingState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPunchingState.cs",
               "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerPunchingState.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerPunchingState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T13:41:07.11Z",
               "EditorCaption": ""
@@ -142,7 +158,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerJumpState.cs",
               "ToolTip": "C:\\Users\\mkisk\\Documents\\MeinEtwas\\HomeworkForTheProject\\Assets\\Scripts\\PlayerJumpState.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerJumpState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T08:29:40.68Z",
               "EditorCaption": ""

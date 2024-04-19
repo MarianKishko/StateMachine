@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class StateController : MonoBehaviour
 {
@@ -9,6 +10,13 @@ public class StateController : MonoBehaviour
     private Rigidbody _rigidBody;
 
     public Rigidbody RigidBody => _rigidBody;
+
+    private PlayerInputActions _playerControls;
+
+    public InputAction MoveAction;
+    public InputAction JumpAction;
+    public InputAction RunAction;
+    public InputAction PunchAction;
 
     [Header("Basic Movement")]
     public float Speed;
@@ -22,12 +30,51 @@ public class StateController : MonoBehaviour
 
     private IState _currentState;
 
+    private void Awake()
+    {
+        _playerControls = new PlayerInputActions();
+    }
+
     private void Start()
     {
         AnimatorController = GetComponent<Animator>();
         _rigidBody = GetComponent<Rigidbody>();
 
         _currentState = PlayerIdle;
+    }
+
+    private void OnEnable()
+    {
+        MoveAction = _playerControls.Player.Move;
+        MoveAction.Enable();
+
+        _playerControls.Player.Look.Enable();
+
+        PunchAction = _playerControls.Player.Fire;
+        PunchAction.Enable();
+
+        JumpAction = _playerControls.Player.Jump;
+        JumpAction.Enable();
+
+        RunAction = _playerControls.Player.Run;
+        RunAction.Enable();
+    }
+
+    private void OnDisable()
+    {
+        MoveAction = _playerControls.Player.Move;
+        MoveAction.Disable();
+
+        _playerControls.Player.Look.Disable();
+
+        PunchAction = _playerControls.Player.Fire;
+        PunchAction.Disable();
+
+        JumpAction = _playerControls.Player.Jump;
+        JumpAction.Disable();
+
+        RunAction = _playerControls.Player.Run;
+        RunAction.Disable();
     }
 
     private void Update()
